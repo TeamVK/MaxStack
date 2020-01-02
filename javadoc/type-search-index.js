@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.vk2gpz.maxstack","l":"InfoHandler"},{"p":"com.vk2gpz.maxstack","l":"MaxStack"}]
